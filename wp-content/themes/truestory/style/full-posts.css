@@ -1,0 +1,344 @@
+.truestory-sub_container {
+    clear: both;
+    width: 1100px;
+    text-align: center;
+    background: #fff;   
+    margin:20px auto 0px auto;
+    color: rgba(20,20,20,0.0);
+}
+
+.posts {
+   
+    background: transparent;
+    color: rgba(20,20,20,0.0);
+}
+
+
+.truestory-full-posts {
+    width: 100%;
+    height: auto;
+    margin-top: 0;
+    margin-left: 0;
+    text-align: center;
+    background: #fff;
+    color: rgba(20,20,20,0.0);
+}
+
+.truestory-full-posts_thumb-img img {
+    max-width: 100%
+    height: auto;
+    border:none;
+}
+
+.truestory-full-posts_title {
+    margin-top: 25px;
+}
+
+.truestory-full-posts_title h4 {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.truestory-full-posts_title a {
+    letter-spacing: 3px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0;
+    word-wrap: break-word;
+    margin-top: 2%;
+    font-weight:700;
+}
+.truestory-full-posts_title a:hover{
+    color:#888;
+    transition:0.6s;
+}
+
+.truestory-full-posts_late_info {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.truestory-full-posts_date-author {
+    letter-spacing: 1px;
+    font-family: "lora",sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #fff;
+    padding: 7px 20px;
+    border-color: #fff;
+    border-style: double;
+    border-width: 4px;
+    background: #C59B69;
+    margin-top: 30px;.truestory-full-posts-quote_soft-bg
+    font-style: italic;
+}
+
+.truestory-full-posts img {
+    max-width: 100%;
+    margin-top: 0;
+    box-sizing: border-box;
+    height: auto;
+}
+
+.truestory-full_posts-content{
+    line-height: 23px;
+    margin-left: 0;
+    margin-top: 30px;
+    text-indent: 0;
+    font-family: 'lato',sans-serif;
+    font-weight: 400;
+    padding: 0;
+    letter-spacing: 1px;
+    clear: both;
+    width: 100%;
+    text-align: left;
+    color:#666;
+}
+
+
+.truestory-full_posts-content iframe {
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+
+.truestory-full-posts_readmore legend {
+    padding: 4px 20px;
+    margin: auto;
+    border-radius: 0;
+}
+
+.truestory-full-posts_readmore legend a {
+    font-family: "lato",sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #C69F73;
+    background-color: rgba(20,20,20,0.0);
+    
+}
+
+.cr_star {
+    color: #2e2e2e;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.article_footer {
+    font-family: "lato",sans-serif;
+    text-transform: capitalize;
+    font-size: 13px;
+    color: #353535;
+    font-weight: normal;
+    letter-spacing: 1px;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.article_footer a {
+    text-decoration: none;
+    color: #353535;
+    background-color: rgba(20,20,20,0.0);
+}
+
+
+
+
+.categorized-articles_smedia {
+    margin-top: 30px;
+}
+
+.truestory-full-posts_smedia {
+    display: inline-block;
+    margin-top: 1%;
+    width: 100%;
+}
+
+
+
+.truestory-full_posts-comnum-sm {
+    margin-top: 10px;
+    border-top: 1px solid;
+  
+}
+
+.truestory-full_posts-comment-number {
+    float: left;
+    font-family: "Lora",sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color:#e5e5e5;
+    border-style:solid;
+    border-width: 0 1px 1px 1px;
+}
+
+.truestory-full_posts-socialmedia {
+    float: right;
+    font-family: "Lora",sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color:#e5e5e5;
+    border-style:solid;
+    border-width: 0 1px 1px 1px;
+}
+
+
+.truestory-full_posts-socialmedia a {
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 12px;
+    margin-top: 12px;
+  
+ 
+}
+
+
+.truestory-full-posts_readmoree {
+    font-family: "Lora",sans-serif;
+    padding:10px;
+    border-color:#e5e5e5;
+    border-style:solid;
+    border-width: 1px 1px 0 1px;
+    text-decoration: none;
+}
+.truestory-full_posts_s_share{
+     font-family: "Lora",sans-serif;
+    padding:10px 20px 10px 20px;
+    border-color:#e5e5e5;
+    border-style:solid;
+    border-width: 1px 1px 0 1px;
+    text-decoration: none;
+}
+.truestory-full_posts_s_share a:hover{
+   
+   color:#E2C66F;
+}
+
+.truestory-full-posts_readmoree:hover {
+ 
+    color:#fff;
+    background:#2e2e2e;
+    transition: 1s;
+    border-bottom: 1px solid #e5e5e5;
+    
+
+}
+.post-footer{
+    width: 100%;
+    margin-top: 30px;
+}
+.post-footer tr td {
+    text-align: center;
+}
+
+.truestory-full-posts_video,.truestory-full-posts_audio {
+    margin-top: 0;
+}
+
+.truestory-full-posts_video iframe {
+    height: 400px;
+}
+
+.truestory-full-posts_audio iframe {
+    height: 300px;
+}
+
+.truestory-full-posts_quote {
+    background: #000;
+    color: #fff;
+  
+    font-family: "raleay",sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 35px;
+    text-decoration: none;
+}
+
+.latest-posts_quote {
+    background: #000;
+    color: #fff;
+    font-family: "raleay",sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 35px;
+    text-decoration: none;
+}
+
+.truestory-full-posts-quote_soft-bg {
+    background: rgba(20,20,20,0.6);
+    padding: 10px 20px;
+    outline-style: outset;
+    outline-color: rgba(255,255,255,0.4);
+    outline-width: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: left;
+}
+
+.truestory-full-posts-quote_soft-bg a {
+    text-decoration: none;
+    color: #fff;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.post-aside {
+    font-size: 14px;
+    background: #000;
+    color: #fff;
+    border-color: #fff;
+    border-style: double;
+    border-width: 5px;
+    padding: 30px;
+    box-sizing: border-box;
+    font-family: "Lato",sans-serif;
+    line-height: 24px;
+    text-align: left;
+
+}
+
+.post-aside:first-letter {
+    font-size: 60px;
+    color: #fff;
+    text-transform: uppercase;
+    padding:0px 10px 0px 0px;
+    font-family: "Lora",sans-serif;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.post-link {
+    padding: 10px 20px;
+    text-align: left;
+    border-color:#fff;
+    border-style: double;
+    border-width: 5px;
+    margin: 0;
+    background: #000;
+    color: rgba(20,20,20,0.0);
+}
+
+.post-link a {
+    text-decoration: none;
+    font-weight: 700;
+    font-family: "Lato",sans-serif;
+    font-size: 14px;
+    color: #000;
+    padding: 2px 10px;
+    line-height: 26px;
+    display: inline;
+    background: #fff;
+    box-shadow: 10px 0 0 #fff,-10px 0 0 #fff;
+    box-decoration-break: clone;
+}
+
+.post-link a:hover {
+    background: #353535;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 10px 0 0 #353535,-10px 0 0 #353535;
+}

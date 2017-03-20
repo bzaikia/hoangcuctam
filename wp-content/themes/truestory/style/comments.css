@@ -1,0 +1,332 @@
+.thetr-comments{
+    color:#444;
+    font-family: "lora";
+    line-height: 25px;
+}
+
+.thetr-comments blockquote p {
+    color: rgb(153, 153, 153);
+    font-family: Georgia;
+    font-size: 17px;
+    line-height: 28px;
+    font-style: italic;
+    border-left: 3px solid rgb(197, 155, 105);
+    padding: 0px 18px;
+}
+ .thetr-comments table { width:100%; margin-bottom:22px; border-collapse:collapse }
+    .thetr-comments td, .thetr-comments th { padding: 12px; border-bottom: 1px #e5e5e5 solid; }
+    .thetr-comments th { font-weight:bold; font-size:14px; background:#f5f5f5;}
+    .thetr-comments tr:hover {
+        background:#f9f9f9;
+    }
+
+.thetr-comments h1,.thetr-comments h2,.thetr-comments h3,.thetr-comments h4,.thetr-comments h5,.thetr-comments h6{
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.thetr-comments a{
+
+color:#C59B69;;
+}
+   .thetr-comments strong {
+
+        font-weight: bold;
+        font-family: "lora";
+        color:black;
+        font-size: 14px;
+    }
+    .thetr-comments pre{
+        overflow: auto;
+        font-family: monospace;
+}
+
+.thetr-comments li,.children li {
+    text-align: left;
+    border-bottom: 1px solid #e5e5e5;
+}
+.comment-form{
+    width: 100%;
+}
+.thetr-comments li:last-child,.children li:last-child {
+    border-bottom: 1px solid #fff;
+}
+
+.thetr-comments li {
+    margin-top: 20px;
+}
+
+.comment-list li.comment {
+    margin-bottom: 20px;
+}
+
+.children li {
+    margin-left: 5%;
+    margin-top: 20px;
+}
+
+.comment-header {
+    min-height: 50px;
+}
+
+.comment_avatar {
+    float: left;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.comment_avatar img {
+    border-radius: 50%;
+}
+
+.comment-list p {
+    float: left;
+    margin: 10px 0;
+    font-family: "lora",sans-serif;
+    color: #424242;
+    font-size: 13px;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.comment-meta p {
+    margin: 10px 0;
+    font-family: "lora",sans-serif;
+    color: #424242;
+    font-size: 13px;
+    line-height: 1.7;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.comment-basic_info {
+    float: left;
+    width: 90%;
+    margin-left: 2%;
+}
+
+.comment-edit-link,.comment-reply-link {
+    font-family: "lora",sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    text-transform: uppercase;
+    background: #000;
+    padding: 3px 10px;
+    color: #fff;
+}
+
+.reply {
+    clear: both;
+    visibility: hidden;
+}
+
+.edit_reply {
+    float: right;
+}
+.edit_reply a {
+    color:white;
+}
+
+#comments {
+    font-size: 19px;
+    word-spacing: 3px;
+    color: #353535;
+    text-align: left;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: "lora",sans-serif;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.comment-fieldset legend {
+    font-size: 13px;
+    background: #353535;
+    color: #fff;
+    text-align: center;
+    padding: 8px 20px;
+}
+
+.comment-fieldset {
+    width: 50%;
+}
+
+.commentmetadata a {
+    text-decoration: none;
+}
+
+.author-commenter,.author-commenter a {
+    font-family: "lora",sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    color: #444;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.commentlist .bypostauthor {
+    color: red;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.commentlist li ul.children li.bypostauthor {
+    color: red;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.comment_timing {
+    font-family: "lora",sans-serif;
+    color: #999;
+    font-style: italic;
+    font-size: 13px;
+    text-decoration: none;
+    line-height: 26px;
+    padding-top: 10px;
+    margin-top: 20px;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.comment hr {
+    color: red;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.logged-in-as {
+    font-family: "lora",sans-serif;
+}
+
+.logged-in-as a:first-of-type {
+    margin-left: 10px;
+}
+
+.logged-in-as a {
+    text-decoration: none;
+    font-weight: 400;
+    font-family: "lora",sans-serif;
+    color: #353535;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.comment-reply-title {
+    color: #353535;
+    font-size: 20px;
+    margin-top: 30px;
+    font-family: "lora",sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.comment-respond {
+    text-align: left;
+}
+
+.comment-respond form {
+    margin-top: 30px;
+}
+
+.comment-respond label {
+    width: 40%;
+    font-family: "lora",sans-serif;
+    color: #353535;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.comment-respond form input[type="text"] {
+    border: 1px solid #e5e5e5;
+    margin-left: 20px;
+    padding:5px 10px 5px 10px;
+    margin-right: 10px;
+    width: 40%;
+    outline: none;
+    color: #ccc;
+    font-family: "lora",sans-serif;
+    font-size: 14px;
+    border-radius: 3px;
+    background-color: rgba(20,20,20,0.0);
+}
+
+#cancel-comment-reply-link {
+    color: #E9C985;
+    font-size: 14px;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.comment-respond textarea {
+    border: 1px solid #e5e5e5;
+    width: 80%;
+    outline: none;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: #353535;
+    background-color: rgba(20,20,20,0.0);
+    font-family: "lora",sans-serif;
+    font-size: 18px;
+}
+
+.comment-respond form input[type="submit"] {
+    background: #000;
+    color: #fff;
+    font-family: "lora",sans-serif;
+    font-size: 14px;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+    cursor: pointer;
+}
+
+.comment-respond form input[type="submit"]:hover {
+    transition: 0.4s;
+    background: #353535;
+    color: white;
+}
+
+.com-num {
+    font-family: "lora",sans-serif;
+    font-weight: 900;
+    font-size: 16px;
+}
+
+
+.thetr-comments ul li{
+  list-style: none;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom:1px dotted #ddd;
+ 
+}
+.thetr-comments ul li ul{
+  margin-left: 45px;
+  margin: 20px 0;
+  padding:20px 30px;
+   box-sizing: border-box;
+  border-left:1px dotted #ddd;
+  font-weight: normal;
+  
+
+}
+.thetr-comments ol li:last-of-type{
+margin-bottom: 0px;
+  padding-bottom: 0px;
+  border:none;
+}
+.thetr-comments ol li{
+  list-style: none;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom:1px dotted #ddd;
+ 
+}
+.thetr-comments ol li ol{
+  margin-left: 45px;
+  margin: 20px 0;
+  padding:20px 30px;
+   box-sizing: border-box;
+  border-left:1px dotted #ddd;
+  font-weight: normal;
+  
+
+}
+.thetr-comments ol li:last-of-type{
+margin-bottom: 0px;
+  padding-bottom: 0px;
+  border:none;
+}

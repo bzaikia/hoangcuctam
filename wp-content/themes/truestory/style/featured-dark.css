@@ -1,0 +1,224 @@
+/* Feautured Articles . Galerry - Full*/
+.truestory-bellow-author-area {
+    width: 1200px;
+    margin: auto;
+    background: #fff;
+    color:inherit;
+
+}
+
+.truestory-featured-articles-second {
+    width: 100%;
+    height:500px;
+    margin:10px auto 0 auto;
+    text-align: center;
+  
+}
+
+.truestory-featured-articles-info-wrapper {
+    height: 500px;
+    width: 100%;
+    margin: auto;
+    color:inherit;
+    background: rgba(20,20,20,0);
+}
+.truestory-f-inside-soft-bg{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(20,20,20,0.6);
+    top: 0px;
+    left: 0px;
+    color:rgba(20,20,20,0);;
+}
+.truestory-f-inside-soft-bg:hover{
+    background-color: rgba(20,20,20,0.7);
+    color:rgba(20,20,20,0);;
+}
+.truestory-featured-articles-info-wrapper:hover {
+    opacity: 1;
+    transition: 1s;
+}
+
+
+
+.truestory-featured-articles-info a:hover {
+    opacity: .8;
+    transition: 1s;
+}
+
+.truestory-featured-articles-second article {
+    text-align: center;
+    width: 100%;
+    height:100%;
+}
+
+.truestory-featured-articles-second article img {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: -1;
+    display: block;
+}
+
+
+.truestory-featured-articles-info-second {
+    width: 100%;
+    position: relative;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: #fff;
+    box-sizing: border-box;
+    text-align: left;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(20,20,20,0);
+}
+
+.truestory-featured-articles_title-second {
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    text-decoration: none;
+    line-height: normal;
+    font-size: 40px;
+    width: 60%;
+    font-weight: 900;
+    color:#fff;
+    font-family: "lato",sans-serif;
+    background-color:rgba(0,0,0,0.0);;
+}
+.inside-f-info{
+    width: 70%;
+    position: absolute;
+    bottom: 10%;
+}
+.truestory-featured-articles-info-second a{
+    text-decoration: none;
+}
+
+.truestory-featured-articles-info-second a span {
+    font-weight: normal;
+    font-family: "lato",sans-serif;
+    color: #fff;
+    font-size: 10px;
+    border-spacing: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: none;
+    padding: 0.7% 5%;
+    background-color: rgba(20,20,20,0.9);
+    outline-style: outset;
+    outline-color: rgba(255,255,255,0.4);
+    outline-width: 2px;
+
+
+}
+
+.truestory-featured-articles-title-h3-second {
+    padding: 3% 0;
+    width: 100%;
+    margin:0;
+    background: transparent;
+    color:white;
+    
+}
+
+.truestory-featured-articles-date {
+    font-weight: 400;
+    font-family: "lato",sans-serif;
+    font-size: 13px;
+    color: #000;
+    background-color: rgba(255,255,255,0);
+}
+
+
+.truestory-featured-articles_body-second{
+    font-family: "lato",sans-serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 27px;
+letter-spacing: 4px;
+display: inline;
+background: black;
+padding: .25em 0;
+box-shadow: 10px 0 0 #000,-10px 0 0 #000;
+box-decoration-break: clone;
+color: #fff;
+margin: 1.5% 0 0 0px;
+}
+.truestory-featured-articles_body-second_wrapp{
+margin: 0 0 0 10px;
+padding-bottom: 50px;
+}
+
+
+
+.truestory-truestory-featured-articles_readmore-second {
+    font-family: "lato";
+font-size: 12px;
+text-transform: uppercase;
+text-decoration: none;
+position: relative;
+padding: .8% 3%;
+letter-spacing: 2px;
+font-weight: normal;
+text-shadow: none;
+-webkit-transition: color .3s;
+-moz-transition: color .3s;
+background: transparent;
+border-color:#dbdbdb;
+border-width: 2px;
+border-style:solid;
+transition: 1s;
+color: #dbdbdb;
+margin: 40px 0 0;
+  
+}
+
+.truestory-featured-articles_readmore:hover {
+    color: #000;
+    transition: .1s;
+    cursor: pointer;
+    border-color:#C69F73;
+    border-width: 0 0 3px 0;
+    border-style:solid;
+    padding-bottom: 5px;
+    background-color: rgba(255,255,255,0);
+   
+}
+
+.truestory-featured-articles-second article:first-of-type .truestory-img-gardient {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.truestory-img-gardient {
+    display: inline-block;
+    border: none;
+    background-position: 50% 50%;
+    position: relative;
+    background-size: 100%;
+    height: 100%;
+}
+
+.truestory-img-gardient:hover {
+  
+    cursor: pointer;
+}
+
+.wrapper {
+    margin: 50px auto;
+    width: 280px;
+    height: 370px;
+    background: #fff;
+    color:inherit;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 8px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0 0 8px rgba(0,0,0,0.3);
+    box-shadow: 0 0 8px rgba(0,0,0,0.3);
+    position: relative;
+    z-index: 90;
+}

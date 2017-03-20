@@ -1,0 +1,90 @@
+.truestory-list-posts_title{
+    padding:0px 0 0 0;
+}
+.truestory-list-posts_title a {
+    font-family: "lora",sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #444;
+    background-color: rgba(20,20,20,0.0);
+
+
+}
+
+.truestory-list-posts_category a {
+     font-weight: normal;
+    font-family: "lato",sans-serif;
+    color: #fff;
+    font-size: 10px;
+    border-spacing: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: none;
+    
+    color: #cea525;
+}
+
+.truestory-list-posts_content p {
+    font-family: "Lato",sans-serif;
+    color: #444;
+    line-height: 1.6;
+    font-size: 14px;
+    background-color: rgba(20,20,20,0.0);
+    text-align: left;
+}
+
+.truestory-list-posts_footer{
+
+font-family: "lora";
+font-size: 12px;
+text-transform: capitalize;
+text-decoration: none;
+position: relative;
+padding: 8px 0%;
+font-weight: normal;
+text-shadow: none;
+-webkit-transition: color .3s;
+-moz-transition: color .3s;
+background: transparent;
+
+transition: 1s;
+color: #727272;
+margin: 20px 0 0;
+}
+
+
+
+.truestory-list-posts article {
+    text-align: left;
+    height: auto;
+    margin-top: 40px;
+}
+
+.truestory-list-posts_thumbnail {
+    width: 50%;
+}
+
+.truestory-list-posts_video_thumbnail iframe {
+    width: 100%;
+    height: 300px;
+}
+
+.truestory-list-posts_audio_thumbnail iframe {
+    width: 100%;
+    height: 200px;
+}
+
+.truestory-list-posts_major_infos {
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 2%;
+   
+    width: 47%;
+    text-align: left;
+}
+
+
+.truestory-list-posts_video_info {
+    margin-top: 20px;
+}

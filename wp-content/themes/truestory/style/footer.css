@@ -1,0 +1,284 @@
+.footer {
+    clear: both;
+    z-index: 1;
+    width: 100%;
+    text-align: center;
+    background:#151515;width:100%;margin-top: -10px;padding:40px 0 0px 0; 
+    
+}
+
+.footer_body ul {
+    height: auto;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+.footer_body ul li {
+    float: left;
+    width: 12.5%;
+    padding: 0;
+}
+
+.footer_body ul li img {
+    width: 100%;
+}
+
+footer h3 {
+    width: 100%;
+    margin-top: 10%;
+    background: #2e2e2e;
+    color: #dbdbdb;
+    font-family: "lato",arial,sans-serif;
+    padding-top: 5%;
+    padding-bottom: 2.5%;
+}
+
+/* Footer Recent Posts Widget */
+
+.footer-widget-title {
+    padding: 12px 0;
+    width: auto;
+    letter-spacing: 3px;
+    font-family: "lato",sans-serif;
+    font-size: 13px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    text-align: center;
+    border-color: #fff;
+    border-style: double;
+    border-width: 4px;
+    font-weight: normal;
+    background: #000;
+    color: #fff;
+}
+
+.footer-widget_1 .widget_categories ul {
+    text-align: center;
+}
+
+.footer .widget_search input[type="submit"] {
+    background: #C59B69;
+    color: #fff;
+    border-color: #fff;
+    font-weight:normal;
+    font-family: "lato",sans-serif;
+    border-style: double;
+    border-width: 4px;
+}
+
+.footer .widget_recent_comments ul {
+    padding-left: 5px;
+    padding-top: 0;
+}
+
+.footer .widget_meta ul {
+    padding-left: 5px;
+    padding-top: 0;
+}
+
+.footer .footer-regular-title {
+    background: #000;
+    border-color: #fff;
+    border-style: double;
+    border-width: 6px;
+    font-family: "lato",arial,sans-serif;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.footer .footer-instagram-title {
+    font-family: "lato",sans-serif;
+    font-size: 17px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #353535;
+    background: #fff;
+}
+
+.footer_con {
+    width: 100%;
+    clear: both;
+    margin-left: 0;
+}
+
+.footer-regular {
+    width: 23.5%;
+    display: inline-table;
+    margin-left: 1%;
+    margin-top: 20px;
+}
+
+.footer-instagram {
+    clear: both;
+    width: 100%;
+    text-align: center;
+}
+
+.footer-regular:first-of-type,.footer-instagram:first-of-type {
+    margin-left: 0;
+}
+
+.footer-header {
+    width: 100%;
+    margin: auto;
+/*
+    border-top: 3px solid red;
+    border-bottom: 3px solid red;*/
+}
+
+.regular_footers {
+    clear: both;
+}
+
+.footer .instagram-pics {
+    margin-top: 10px;
+}
+
+.footer .instagram-pics li {
+    float: left;
+    width: 12.5%;
+    display: inline-block;
+    border-bottom: none;
+    padding: 0;
+}
+
+.regular_footers .instagram-pics li {
+    float: left;
+    width: auto;
+    background: #000;
+    color: rgba(20,20,20,0.0);
+}
+
+.footer .instagram-pics li img {
+    max-width: 100%;
+}
+
+.footer-info {
+    clear: both;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-color: #000;
+    border-style: solid;
+    border-width: 3px 0 0;
+    background-position: center;
+    background-size: cover;
+}
+
+.footer-info span {
+    color: #fff;
+    font-family: "Lato",sans-serif;
+    font-weight: 400;
+    margin-top: 1.5%;
+    line-height: 30px;
+    letter-spacing: 4px;
+    display: inline;
+    background: #000;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+/*****
+/** Footer Instagram
+/***********************/
+.thefooter {
+    text-align: center;
+    overflow: hidden;
+}
+
+.instagram-title {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 22px;
+}
+
+.thefooter .instagram-pics li {
+    width: 16.666666666667%;
+    display: inline;
+    float: left;
+}
+
+.thefooter .instagram-pics li img {
+    max-width: 100%;
+}
+
+.thefooter .instagram-pics li img:hover {
+    opacity: .87;
+}
+
+.thefooter .clear a {
+    font-size: 13px;
+    border-color: #eee;
+    border-style: solid;
+    border-width: 0 0 1px;
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+    font-family: "Lato",sans-serif;
+    margin-top: 20px;
+    background-color: rgba(20,20,20,0.0);
+}
+    #instagram-footer {
+    text-align:center;
+    overflow:hidden;
+    clear: both;
+}
+.instagram-title {
+    display: none;
+}
+
+#instagram-footer .instagram-pics li {
+    width:16.66666666666667%;
+    display:inline;
+    float:left;
+}
+#instagram-footer .instagram-pics li img {
+    max-width:100%;
+}
+#instagram-footer .instagram-pics li img:hover {
+    opacity:.87;
+}
+#instagram-footer p.clear {
+    display: none;
+}
+    .footer-logo{
+        
+        width:100%;
+    }
+    .footer-logo img {
+        width:250px;
+    }
+.truestory-about-author-social{
+    
+    
+margin-top: 30px;
+
+}
+.truestory-about-author-social-icon{
+    font-size: 14px;
+    color:black;
+    padding:8px 13px;
+    background:#dbdbdb;
+    color:#151515;
+    border:2px solid #dbdbdb;
+        margin:5px;
+}
+.truestory-about-author-social-icon:hover{
+    background:#dbdbdb;
+    transition: 0.4s;
+    color: #151515;
+}
+
+.footer-copyrights{
+    width:100%;
+    font-family: "lora";
+    font-size:13px;
+    color:#888;
+    background:#1A1A1A;
+    font-style: italic;
+    margin-top: 60px;
+    padding:35px 0;
+}

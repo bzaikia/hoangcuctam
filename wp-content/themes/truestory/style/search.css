@@ -1,0 +1,55 @@
+/* Full Posts */ 
+.truestory-sub_container_search{
+	clear: both;
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+
+}
+.truestory-posts-search{
+	float: left;
+	width: 68%;
+	margin-left: 0%;
+}
+
+.truestory-full-posts_search{
+	float: left;
+	width: 100%;
+	margin-left:0%;
+	margin-top: 0px;
+}
+
+.truestory-search_query{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background:black;
+	color: rgba(20,20,20,0.0);
+	border-color:white;
+    border-style: double;
+    border-width: 4px;
+}
+.truestory-search_query span {
+	font-family: "lato",sans-serif;
+	color:white;
+	background-color: rgba(20,20,20,0.0);
+}
+.truestory-search_query h2{
+
+
+    font-family: "lato",sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color:white;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.search_empty{
+
+	color:#333333;
+	font-family: "lato",sans-serif;
+	font-size: 14px;
+	background-color: rgba(20,20,20,0.0);
+}

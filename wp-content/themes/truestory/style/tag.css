@@ -1,0 +1,47 @@
+/* Full Posts */
+
+.truestory-posts-tag {
+    float: left;
+    width: 68%;
+    margin: 0;
+}
+
+.truestory-full-posts_tag {
+    float: left;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.truestory-tag_query {
+    padding-top: 15px;
+    padding-bottom: 15px;
+      color: #727272;
+    background:#fff;
+    border:1px solid #dadada;
+    
+}
+
+.truestory-tag_query span {
+    font-family: "Lora",sans-serif;
+    color: #fff;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.truestory-tag_query h2 {
+    font-family: "lato",sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #727272;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.truestory-tag_empty {
+    color: #333;
+    font-family: "lato",sans-serif;
+    font-size: 14px;
+    background-color: rgba(20,20,20,0.0);
+}

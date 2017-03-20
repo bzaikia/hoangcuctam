@@ -1,0 +1,333 @@
+@media only screen and (max-width: 944px){
+
+.truestory-about-author-name{
+	font-size:26px;
+}
+.truestory-about-author p {
+	font-size: 1px;
+	padding-top: 5px;
+}
+}
+
+@media only screen and(max-width: 1400px){
+	.truestory-full_posts-content,.truestory-page-article{
+	width: 95%;
+	margin:auto;
+	margin-top: 30px;
+
+}
+.truestory-full-posts table{
+	width: 95%;
+	margin:auto;
+	
+}
+
+
+.posts{
+	width: 100%;
+}
+.truestory-full-posts{
+	width: 100%;
+}
+
+}
+@media only screen and (max-width: 1285px){
+
+.truestory-bellow-author-area{
+	width: 1140px;
+}
+.truestory-sub_container{
+	width: 1140px;
+}
+.truestory_author{
+	width: 1140px;
+	margin:auto;
+}
+.truestory-full_posts-content{
+	width: 95%;
+	margin:auto;
+	margin-top: 30px;
+
+}
+.posts,.posts-single,.truestory-page-single{
+	width: 100%;
+	
+}
+.error{
+	clear: both;
+	width: 100%;
+}
+aside{
+	clear: both;
+	width: 100%;
+	margin-left: 0px;
+	margin-top: 30px;
+	
+}
+}
+
+
+@media only screen and (max-width: 1220px){
+
+.truestory-bellow-author-area{
+	width: 1050px;
+}
+.truestory-sub_container{
+	width: 1050px;
+}
+.truestory_author{
+	width: 1050px;
+}
+.truestory-about-author-widget p {
+	font-size: 13px;
+}
+
+.widget-title{
+	font-size: 12px;
+}
+
+.truestory-recent-articles-info_title{
+	font-size: 27px;
+}
+
+
+}
+
+@media only screen and (max-width: 1111px){
+	.truestory-bellow-author-area{
+	width: 950px;
+      }
+     .truestory-sub_container{
+	width: 950px;
+        } 
+        .truestory_author{
+	width: 950px;
+}
+	.posts{
+		float: none;
+		width: 100%;
+	}
+	aside{
+		float: none;
+		margin-top: 70px;
+		width: 100%;
+		margin-left:0px;
+	}
+	.truestory-recent-articles-info_title{
+		font-size: 30px;
+	}
+}
+
+
+
+@media only screen and (max-width: 1111px){
+	.truestory-recent-articles img{
+
+	}
+}
+
+@media only screen and (max-width: 1024px){
+.truestory-bellow-author-area{
+	width: 900px;
+}
+.truestory-sub_container{
+	width: 900px;
+}
+.truestory_author{
+	width: 900px;
+}
+.truestory-full-posts_title a{
+	font-size: 32px;
+}
+
+}
+@media only screen and (max-width: 934px){
+.truestory-bellow-author-area{
+	width: 850px;
+}
+.truestory-sub_container{
+	width: 850px;
+}
+.truestory_author{
+	width: 850px;
+	
+}
+.truestory-full-posts_title a{
+	font-size: 30px;
+}
+
+}
+@media only screen and (max-width:408px){
+
+.truestory-bellow-author-area{
+	width: 390px;
+}
+.truestory-sub_container{
+	width: 390px;
+}
+.truestory_author{
+	width: 390px;
+	
+}
+}
+
+@media only screen and (max-width: 932px){
+.truestory-bellow-author-area{
+	width:96%;
+}
+.truestory-sub_container{
+	width: 96%;
+}
+.truestory_author{
+	width: 96%;
+}
+
+.truestory-full-posts_title a{
+	font-size: 25px;
+}
+.truestory-full-posts_date-author{
+	font-size: 11px;
+}
+.truestory-full_posts-content,.truestory-full_posts-socialmedia,.truestory-full_posts-socialmedia,.truestory-full_posts-comment-number{
+	font-size: 12px;
+}
+.{
+	width: 80%;
+}
+.truestory-featured-articles_title{
+	font-size: 17px;
+}
+
+}
+
+@media only screen and (max-width:620px){
+	.{
+		width: 85%;
+		padding-bottom: 5%;
+	}
+	.truestory-featured-articles_readmore{
+		font-size: 12px;
+	}
+}
+
+@media only screen and (max-width:885px){
+	.truestory-menu{
+		position: static;
+		background:#222222;
+	}
+	.truestory-menu ul {
+		background:#1e1e1e;
+	}
+	.showing{
+		max-height: 100%;
+	}
+	.truestory-menu ul li {
+		box-sizing:border-box;
+		width: 100%;
+
+	}
+	.truestory-menu ul li:hover{
+		font-weight: bold;
+		transition:0s;
+	}
+	.truestory-menu ul li ul {
+		position: static;
+		margin-top: 20px;
+		float: left;
+
+	}
+	.truestory-menu ul li ul li{
+		margin-top: 5px;
+
+	}
+	.handle{
+		display: block;
+	}
+	.handle:hover .truestory-menu ul {
+	  display: block;
+     } 
+
+     .truestory-about-author-name{
+     	margin-top: 3%;
+     }
+
+
+
+
+
+}
+	
+
+@media only screen and (max-width: 440px){
+	.truestory-bellow-author-area{
+		width: 400px;
+	}
+	.truestory-about-author-name{
+		margin-top: 5%;
+	}
+}
+
+
+@media only screen and (max-width: 725px){
+	.truestory-long-posts_major_infos{
+		display: block;
+		width: 95%;
+		padding-left: 2.5%;
+		padding-right: 2.5%;
+		box-sizing:border-box;
+
+	}
+	.truestory-long-posts_thumbnail{
+		width: 100%;
+		padding-left: 2.5%;
+		padding-right: 2.5%;
+		box-sizing:border-box;
+	}
+	 .truestory-long-posts_content p{
+	 	text-align: center;
+	 }
+}
+
+@media only screen and (max-width: 1100px){
+		.truestory-featured-articles-splited{
+		
+	     height: 1010px;
+	
+     }
+	.truestory-featured-articles-splited article {
+        float: left;
+    }
+    .truestory-featured-articles-splited article:first-of-type{
+       height: 500px;
+       width: 100%;
+ 
+
+     }
+	.truestory-featured-articles-splited article:nth-of-type(2){
+        width: 100%;
+		margin-left: 0px;
+		margin-top: 5px;
+	}
+	.truestory-featured-articles-splited article:nth-of-type(3){
+     
+	}
+	.truestory-featured-articles-those_info{
+		width: 60%;
+		left: 20%;
+}
+
+.posts{
+	clear: both;
+}
+	
+
+}
+
+@media only screen and (max-width: 620px){
+	.truestory-featured-articles-those_info{
+		width: 80%;
+		left: 10%;
+}
+}
+
+

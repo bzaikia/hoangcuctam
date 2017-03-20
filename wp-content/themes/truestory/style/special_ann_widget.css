@@ -1,0 +1,57 @@
+.truestory-special_ann-widget {
+    color: red;
+    padding-bottom: 10px;
+    text-align: left;
+    background-color: rgba(20,20,20,0);
+}
+
+.truestory-special_ann-widget p {
+    font-size: 14px;
+    line-height: 24px;
+    text-align: left;
+    padding: 15px 30px;
+    font-family: "lato",arial,sans-serif;
+    border-width: 6px;
+    border-color: #fff;
+    border-style: double;
+    letter-spacing: 1px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 15px;
+    background: #000;
+    color: #fff;
+    font-weight: normal;
+}
+
+.truestory-special_ann-widget img {
+    margin-top: 0;
+}
+
+.truestory-special_ann-widget .widget-title {
+    padding: 12px 0;
+    width: auto;
+    letter-spacing: 3px;
+    font-family: "lato",sans-serif;
+    font-size: 13px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: double;
+    border-color: #fff;
+    border-width: 6px;
+    font-weight: normal;
+    background: #000;
+    box-sizing: border-box;
+    color:white;
+}
+
+.truestory-that-pic {
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.truestory-that-pic img {
+    width: 100%;
+    border-radius: 0px;
+}

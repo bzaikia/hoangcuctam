@@ -1,0 +1,251 @@
+/* Full Posts */
+.truestory_sub_container_single {
+    clear: both;
+   width:1100px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.posts-single {
+    float: left;
+    width: 68%;
+    margin-left: 0;
+}
+
+.truestory-full-posts_single {
+    float: left;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.truestory-full-posts_video iframe {
+    width: 100%;
+    height: 400px;
+}
+
+.truestory-full-posts_audio iframe {
+    width: 100%;
+    height: 200px;
+}
+
+.truestory-full-posts_video div {
+    background: red;
+    width: 700px;
+    color: rgba(20,20,20,0.0);
+}
+
+.truestory-full-posts_video video {
+    width: 700px;
+    height: 400px;
+    margin: auto;
+}
+
+
+.truestory-full-posts_body blockquote p {
+    font-weight: 900;
+    border-left: 5px solid #000;
+    padding-left: 2%;
+    font-size: 30px;
+    border-right: none;
+    font-family: "Raleway",sans-serif;
+    color: #000;
+    text-transform: capitalize;
+    line-height: 35px;
+    clear: both;
+    margin-left: 0;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.truestory-full-posts_body a {
+    color: #E9C985;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    clear: both;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.truestory-full-posts_body ul,ol {
+    margin-left: 40px;
+    clear: both;
+}
+
+
+.truestory-full-posts_body hr {
+    border-top: 1px dotted #E9C985;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+    .truestory-full_posts-content {
+        
+    }
+    
+    
+    
+    .truestory-full_posts-content p {
+        margin-bottom:20px;
+    }
+    
+    .truestory-full_posts-content a.more-link {
+        font-weight:700;
+    }
+    .truestory-full_posts-content a:hover {
+        text-decoration:underline;
+    }
+    
+    .truestory-full_posts-content p, .truestory-full_posts-content h1, .truestory-full_posts-content h2, .truestory-full_posts-content h3, .truestory-full_posts-content h4, .truestory-full_posts-content h5, .truestory-full_posts-content h6, .truestory-full_posts-content hr {
+    margin-bottom:30px;
+    }
+
+    .truestory-full_posts-content h1, .truestory-full_posts-content h2, .truestory-full_posts-content h3, .truestory-full_posts-content h4, .truestory-full_posts-content h5, .truestory-full_posts-content h6 {
+        color:#000;
+        font-weight:700;
+    }
+    .truestory-full_posts-content h1 {
+        font-size:30px;
+        font-family: "lato";
+        font-weight: 800;
+    }
+    .truestory-full_posts-content h2 {
+        font-size:27px;
+        font-family: "lato";
+        font-weight: 800;
+    }
+    .truestory-full_posts-content h3 {
+        font-size:24px;
+        font-family: "lato";
+        font-weight: 800;
+    }
+    .truestory-full_posts-content h4 {
+        font-size:20px;
+        font-family: "lato";
+        font-weight: 800;
+    }
+    .truestory-full_posts-content h5 {
+        font-size:18px;
+        font-family: "lato";
+        font-weight: 800;
+    }
+    .truestory-full_posts-content h6 {
+        font-size:16px;
+        font-family: "lato";
+        font-weight: 800;
+    }
+    .truestory-full_posts-content hr {
+        border:0;
+        height:0;
+        border-bottom:1px solid #e5e5e5;
+        clear:both;
+    }
+    .truestory-full_posts-content blockquote p {
+        border-left:3px solid #C59B69;
+        color:#999;
+        padding:0 18px;
+        font-family:"lora";
+        font-size:17px;
+        line-height:28px;
+        font-style:italic;
+    }
+
+    .truestory-full_posts-content ul, .truestory-full_posts-content ol {
+        padding-left:45px;
+        margin-bottom:20px;
+    }
+    .truestory-full_posts-content ul li {
+        margin-bottom:12px;
+        list-style:square;
+    }
+    .truestory-full_posts-content ol li {
+        margin-bottom:12px;
+        list-style:decimal;
+    }
+
+
+    .sticky.post .post-header { border:1px dashed #ddd; padding:20px 0; }
+
+    .bypostauthor  {}
+
+    .truestory-full_posts-content table { width:100%; margin-bottom:22px; border-collapse:collapse }
+    .truestory-full_posts-content td, .truestory-full_posts-content th { padding: 12px; border-bottom: 1px #e5e5e5 solid; }
+    .truestory-full_posts-content th { font-weight:bold; font-size:14px; background:#f5f5f5;}
+    .truestory-full_posts-content tr:hover {
+        background:#f9f9f9;
+    }
+    .truestory-full_posts-content a {
+
+        text-decoration: none;
+        color:#C59B69;
+        font-size: 13px;
+    }
+    .truestory-full_posts-content strong {
+
+        font-weight: bold;
+        font-family: "lato";
+        color:black;
+        font-size: 14px;
+    }
+    .truestory-full_posts-content pre{
+        overflow: auto;
+        font-family: monospace;
+}
+.truestory-full_posts-content input{
+    border: 1px solid #e5e5e5;
+    color: #999;
+    padding: 9px 7px;
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.truestory-full_posts-content input[type="submit"]{
+    border: 1px solid #e5e5e5;
+    color: white;
+    background:black;
+    padding: 12px 7px;
+    box-sizing: border-box;
+    width: 30%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: "lato";
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+}
+.truestory-full_posts-content input[type="submit"]:hover{
+    background:#353535;
+    transition:0.7s;
+    cursor: pointer;
+
+}
+    
+.inpost-tags a {
+
+        background: #f2f2f2;
+    color: #888;
+    padding: 6px 8px 7px;
+    margin-right: 5px;
+    margin-bottom: 8px;
+    text-decoration: none;
+    margin-bottom: 5px;
+    display: inline-block
+
+}
+.inpost-tags a:hover{
+    transition:0.4s;
+    color:#C59B69;
+    text-decoration: none;
+
+}

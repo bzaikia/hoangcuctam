@@ -1,0 +1,81 @@
+.truestory_author {
+    
+    background-position: 50%50%;
+    clear: both;
+    margin: 0;
+    width: 100%;
+  
+}
+
+.truestory-logo-top img{
+    width:300px;
+}
+.truestory-about-author {
+
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    
+}
+
+     .about-author-top{
+                    width:1100px;margin: auto;
+                    clear: both;
+                    margin-top: 30px;
+                   
+                    text-align: left;
+              }
+              .about-author-personal-picture{
+                display: inline-block;
+              }
+              .about-author-personal-picture img{
+                     max-width: 350px;
+
+
+    
+              }
+              .about-author-personal-data{
+                color:black;
+                display: inline-block;
+                width:65%;
+                text-align: left;
+                margin-left: 30px;
+                vertical-align: top;
+                margin-top: 20px;
+
+              }
+              .about-author-personal-name{
+                font-family: "lora";
+                text-decoration: none;
+                color:black;
+                font-size:30px;
+                font-weight: 600;
+                text-transform: uppercase;
+              }
+              .about-author-personal-desc{
+                    
+                font-family: 'lato',sans-serif;
+                font-weight: 400;
+                line-height: 28px;
+                color:#666;
+              }
+              .truestory-about-author-top-social{
+                margin-top: 30px;
+              }
+              .truestory-about-author-top-social a{
+                font-size: 14px;
+    color: #fff;
+    padding: 9px 13px;
+    background: black;
+    color: #fff;
+    margin: 5px;
+    background-color: #cea525;
+    border: 2px solid #cea525;
+    border-color: #dadada;
+    border-style: solid;
+    border-width: 1px;
+    background: white;
+    color: #444;
+              }

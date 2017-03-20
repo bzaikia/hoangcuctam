@@ -1,0 +1,52 @@
+/* Full Posts */
+.truestory-sub-container-category {
+    clear: both;
+    width: 100%;
+    text-align: center;
+    margin:20px auto 0 auto;
+}
+
+.truestory-posts-category {
+    float: left;
+    width: 68%;
+    margin: 0;
+}
+
+.truestory-full-posts-category {
+    float: left;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.truestory-category-query {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #727272;
+    background:#fff;
+    border:1px solid #dadada;
+}
+
+.truestory-category-query span {
+    font-family: "lora",sans-serif;
+    color: #fff;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.truestory-category-query h2 {
+    font-family: "lora",sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 1.2;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #727272;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.truestroy-category_empty {
+    color: #333;
+    font-family: "lato",sans-serif;
+    font-size: 14px;
+    background-color: rgba(20,20,20,0.0);
+}

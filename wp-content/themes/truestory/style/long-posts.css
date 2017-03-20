@@ -1,0 +1,119 @@
+.truestory-long-posts_title a {
+    font-family: "lora",sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #444;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.truestory-long-posts_category a {
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 10px 20px;
+    font-family: "Lato",sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 13px;
+    letter-spacing: 2px;
+    display: inline-block;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+.truestory-long-posts_content p {
+    font-family: "Lato",sans-serif;
+    color: #353535;
+    line-height: 1.6;
+    font-size: 14px;
+    text-align: left;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.truestory-long-posts_readmore {
+
+    font-family: "lora",arial,sans-serif;
+font-size: 12px;
+text-transform: capitalize;
+text-decoration: none;
+position: relative;
+
+font-weight:normal;
+text-shadow: none;
+-webkit-transition: color .3s;
+-moz-transition: color .3s;
+background: transparent;
+
+transition: 1s;
+color: #727272;
+margin: 0px 0 0;
+}
+
+
+.truestory-long-posts_readmore:hover {
+    
+    color: #444;
+    transition:0.3s;
+}
+
+.long-posts article {
+    text-align: left;
+    height: auto;
+    margin-top: 40px;
+}
+
+.truestory-long-posts_thumbnail {
+    width: 100%;
+}
+
+.truestory-long-posts_video_thumbnail iframe {
+    width: 100%;
+    height: 300px;
+}
+
+.truestory-long-posts_audio_thumbnail iframe {
+    width: 100%;
+    height: 200px;
+}
+
+.truestory-long-posts_major_infos {
+    vertical-align: top;
+    margin-top: 20px;
+    width: 98%;
+    text-align: left;
+}
+
+.truestory-long-posts_video_info {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.truestory-long-posts_readmore {
+    text-align: left;
+}
+
+.truestory-long-aside {
+    font-size: 14px;
+    background: #000;
+    color: #fff;
+    border-color: #fff;
+    border-style: double;
+    border-width: 5px;
+    padding: 30px;
+    box-sizing: border-box;
+    font-family: "Lato",sans-serif;
+    line-height: 24px;
+    text-align: left;
+}
+
+.truestory-long-aside:first-letter {
+    font-size: 60px;
+    color: #fff;
+    padding: 0;
+    text-transform: uppercase;
+    padding-right: 10px;
+    font-family: "Lora",sans-serif;
+    background-color: rgba(20,20,20,0.0);
+}

@@ -1,0 +1,113 @@
+.truestory-menu {
+  
+    background: transparent;
+    width: 100%;
+    border-top: 1px solid;
+    border-color: #fff;
+    text-align: center;
+    color: rgba(20,20,20,0.0);
+}
+
+.truestory-menu ul {
+    position: relative;
+   
+    -webkit-box-shadow: 0 3px 3px -2px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0 3px 3px -2px rgba(0,0,0,0.15);
+    box-shadow: 0 3px 3px -2px rgba(0,0,0,0.15);
+    text-align: center;
+    color: rgba(20,20,20,0.0);
+
+}
+
+.truestory-menu ul li {
+    position: relative;
+    display: inline-block;
+    width: auto;
+    border-right: 1px dotted transparent;
+    margin: auto;
+    text-align: center;
+    border-bottom: 3px solid transparent;
+}
+
+.truestory-menu ul li:last-child {
+    border-right: none;
+}
+
+.truestory-menu ul li ul {
+    display: none;
+}
+
+.truestory-menu ul li a {
+    font-family: "lato",sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    word-wrap: break-word;
+    color: #fff;
+    font-size: 12px;
+    padding: 20px;
+    line-height: 50px;
+    height: 50px;
+    background-color: rgba(20,20,20,0.0);
+}
+
+.truestory-menu ul li:hover {
+    transition: .3s;
+    cursor: pointer;
+    border-bottom: 3px solid #fff;
+}
+
+.truestory-menu ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    padding: 0;
+    color: red;
+    width: 100%;
+    box-shadow: none;
+    z-index: 20;
+    border: none;
+    margin-right: 0;
+    margin-top: 3px;
+    background: white;
+}
+
+.truestory-menu ul ul li {
+    float: none;
+    width: 200px;
+    background: white;
+    margin-top: 0;
+    padding:10px 0px;
+    color: rgba(20,20,20,0.0);
+    border-bottom: 1px solid #dbdbdb;
+}
+.truestory-menu ul li li:last-child{
+
+    border:none;
+}
+.truestory-menu ul ul a {
+    line-height: 23px;
+    padding: 6px 10px;
+}
+
+.truestory-menu ul li:hover > ul {
+    display: block;
+}
+
+.handle {
+    width: 100%;
+    color: #444;
+    padding-left: 20px;
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+    font-family: "lato",sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    cursor: pointer;
+    display: none;
+    font-size: 24px;
+    background: transparent;
+    border-bottom: 1px solid #dbdbdb;
+}
